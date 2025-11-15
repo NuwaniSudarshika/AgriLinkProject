@@ -1,2 +1,0 @@
-# AgriLinkProject
-Our Group Project
